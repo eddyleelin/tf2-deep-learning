@@ -1,0 +1,26 @@
+<annotation>
+	<folder>frames</folder>
+	<filename>2020-07-01_Harvest_1_frame5775.jpg</filename>
+	<path>C:\Users\Edward\Documents\GitHub\tf2-deep-learning\data\frames\2020-07-01_Harvest_1_frame5775.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>blu_soldier</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>884</xmin>
+			<ymin>505</ymin>
+			<xmax>1005</xmax>
+			<ymax>735</ymax>
+		</bndbox>
+	</object>
+</annotation>
